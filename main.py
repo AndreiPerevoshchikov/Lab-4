@@ -77,5 +77,4 @@ btn.grid(column=0, row=3)
 
 play()
 
-
 root.mainloop()
